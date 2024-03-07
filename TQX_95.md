@@ -1,5 +1,5 @@
 <style>
-  .command{
+  .center{
     display: table;
     width: auto;
     margin-left: auto;
@@ -7,7 +7,7 @@
   }
 </style>
 
-<div class="command">
+<div class="center">
 |  Command  |  Function  |
 |  :-----:  |  :------:  |
 |    :w!    |  When the file attributes are set to read-only, force writing to the file.  |
