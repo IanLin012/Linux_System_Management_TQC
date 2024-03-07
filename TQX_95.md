@@ -1,4 +1,5 @@
-<div>  </div>
+<div>
+</div>
 |  Command  |  Function  |
 |  :-----:  |  :------:  |
 |    :w!    |  When the file attributes are set to read-only, force writing to the file.  |
