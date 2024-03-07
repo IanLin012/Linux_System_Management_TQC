@@ -1,9 +1,6 @@
 <style>
   .center{
-    display: table;
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
+    align-item: center;
   }
 </style>
 
