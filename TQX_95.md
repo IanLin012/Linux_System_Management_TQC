@@ -1,13 +1,8 @@
-# TQC
+## TQC
 
-
-<div style="display: table; width: auto; margin-left: auto; margin-right: auto">
-
-|  Command  |  Function  |
-|  :-----:  |  :------:  |
-|    :w!    |  When the file attributes are set to read-only, force writing to the file.  |
-|    :a!    |  None  |
-|    :q!    |  Forcefully exit without saving any modified unsaved files.  |
-|    :x!    |  None  |
-
-</div>
+|    指令    |    用途    |
+|   :---:   |   :---:   |
+|    :w!    |  強制存檔(即使檔案屬性為唯讀)  |
+|    :a!    |  無此指令(a -> 在游標位置後進入編輯模式)  |
+|    :q!    |  不存檔強制退出  |
+|    :x!    |  無此指令(:x -> 存檔並退出vi)  |
